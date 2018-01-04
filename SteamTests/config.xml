@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <browser>Chrome</browser>                    <!-- Set 'Chrome' or 'Firefox' -->
+  <url>http://store.steampowered.com</url>
+  <implicitWait>25</implicitWait>
+  <filename>\SteamSetup.exe</filename>
+  <language>ru</language>                      <!-- Set 'ru' or 'en' -->
+  <culture>ru-RU</culture>                     <!-- Set 'ru-RU' or 'en-US' for localization -->
+  <year>1989</year>
+  <pageLoadTime>45</pageLoadTime>
+  <implicitForPage>3</implicitForPage>
+  <scriptPath>..\\..\\DownloadFileAutoIT.exe</scriptPath>
+  <taskDelay>300</taskDelay>
+  <countLoop>60</countLoop>
+</config>
